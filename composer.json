@@ -1,0 +1,10 @@
+{
+    "name": "threema-ch/threema-msgapi-sdk",
+    "authors": [
+        {
+            "name": "Florian Weber",
+            "email": "florian.weber@ueberbit.de"
+        }
+    ],
+    "require": {}
+}
